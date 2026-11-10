@@ -1,0 +1,7 @@
+## Interface: 16001
+## Title: XIVCommands
+## Notes: Final Fantasy XIV-style party and music commands.
+## Author: Xe Iaso
+## Version: 0.1.0
+
+XIVCommands.lua
